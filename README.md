@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 0x00-V</h1>
 <h3 align="center">IT Technician | Cyber Security | Programming</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
