@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm 0x00-V</h1>
 <h3 align="center">IT Technician | Cyber Security | Programming</h3>
 
+- Certificates **CompTIA A+, PJPT**
 
 <p align="left">
 </p>
