@@ -45,6 +45,4 @@ This is where I document my programming projects, **homelabs, security research,
 
 ---
 
-# 📫 How to reach me: (Not yet added)
-- **LinkedIn:** [#]
-- **Portfolio:** [#]
+- **Portfolio:** [#] (Not complete)
