@@ -4,7 +4,7 @@
 ---
 
 #### 👀 Welcome to my GitHub!  
-This is where I document my **homelabs, security research, and IT projects** while developing hands-on skills across IT support and cybersecurity.
+This is where I document my programming projects, **homelabs, security research, and IT projects** while developing hands-on skills across IT support and cybersecurity.
 
 #### 🌱 I’m currently expanding my expertise in:  
 - Cybersecurity (DFIR, Security Analys, Red teaming...)  
