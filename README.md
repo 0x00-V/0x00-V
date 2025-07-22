@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm 0x00-V</h1>
+<h1 align="center">Hi 👋, I'm 0x00-V (Daniel Thomas)</h1>
 <h3 align="center">IT Technician | Cyber Security | Programming</h3>
 
 ---
 
-### 👀 Thank you for coming to my space. This is where I make magic and share it with the world!  
-### 🌱 I’m currently learning Cybersecurity, Linux, Python, Automation, Data Science, and AI.  
-### 💼 I’m building my own cybersecurity and IT portfolio with homelabs and projects.  
-### ✅ Certifications:  
+#### 👀 Welcome to my GitHub!  
+This is where I document my **homelabs, security research, and IT projects** while developing hands-on skills across IT support and cybersecurity.
+
+#### 🌱 I’m currently expanding my expertise in:  
+- Cybersecurity (DFIR, Security Analys, Red teaming...)  
+- Windows/Linux Administration  
+- Programming & Automation  
+- Data Science
+#### 💼 I’m building my own cybersecurity and IT portfolio with homelabs and projects.
+### ✅ Main Certifications:  
 * CompTIA A+
 * TCM PWPA
 * TCP PJPT
