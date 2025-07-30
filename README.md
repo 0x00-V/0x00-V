@@ -14,16 +14,16 @@ This is where I document my programming projects, **homelabs, security research,
 #### 💼 I’m building my own cybersecurity and IT portfolio with homelabs and projects.
 ### ✅ Main Certifications:  
 * CompTIA A+
+* THM SAL1
 * TCM PWPA
 * TCP PJPT
 
 ---
 
 ### 🎯 Targeting:  
-* THM SAL1 (Up Next)
-* CompTIA Network+  
+*  AZ-900
 * CompTIA Security+  
-* CCNA  
+
 
 ---
 
