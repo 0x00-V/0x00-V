@@ -11,7 +11,7 @@ This is where I document my programming projects, **homelabs, security research,
 - Windows/Linux Administration  
 - Programming & Automation  
 - Data Science
-#### 💼 I’m building my own cybersecurity and IT portfolio with homelabs and projects.
+#### 💼 I’m building my own cybersecurity and IT portfolio with homelabs, capture the flags and projects.
 ### ✅ Main Certifications:  
 * CompTIA A+
 * THM SAL1
@@ -20,7 +20,7 @@ This is where I document my programming projects, **homelabs, security research,
 
 ---
 
-### 🎯 Targeting:  
+### 🎯 Up Next:  
 *  AZ-900
 * CompTIA Security+  
 
