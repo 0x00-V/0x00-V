@@ -17,11 +17,11 @@ This is where I document my programming projects, **homelabs, security research,
 * THM SAL1
 * TCM PWPA
 * TCP PJPT
+* AZ-900
 
 ---
 
 ### 🎯 Up Next:  
-*  AZ-900
 * CompTIA Security+  
 
 
