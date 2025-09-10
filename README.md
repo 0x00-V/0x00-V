@@ -18,11 +18,12 @@ This is where I document my programming projects, **homelabs, security research,
 * TCM PWPA
 * TCP PJPT
 * AZ-900
+* CompTIA Security+  
 
 ---
 
 ### 🎯 Up Next:  
-* CompTIA Security+  
+* TBD
 
 
 ---
