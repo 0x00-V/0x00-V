@@ -9,10 +9,10 @@ This is where I document my programming projects, **homelabs, security research,
 #### 🌱 I’m currently expanding my expertise in:  
 - Cybersecurity (DFIR, Security Analys, Red teaming...)  
 - Windows/Linux Administration  
-- Programming & Automation  
-- Data Science
-#### 💼 I’m building my own cybersecurity and IT portfolio with homelabs, capture the flags and projects.
-### ✅ Main Certifications:  
+- Programming & Automation
+- 
+
+### ✅ Certifications:  
 * CompTIA A+
 * THM SAL1
 * TCM PWPA
