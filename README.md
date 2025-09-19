@@ -46,4 +46,3 @@ This is where I document my programming projects, **homelabs, security research,
 
 ---
 
-- **Portfolio:** [#] (Not complete)
