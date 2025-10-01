@@ -3,16 +3,16 @@
 
 ---
 
-#### 👀 Welcome to my GitHub!  
+#### Welcome to my GitHub!  
 This is where I document my programming projects, **homelabs, security research, and IT projects** while developing hands-on skills across IT support and cybersecurity.
 
-#### 🌱 I’m currently expanding my expertise in:  
+#### I’m currently expanding my expertise in:  
 - Cybersecurity (DFIR, Security Analys, Red teaming...)  
 - Windows/Linux Administration  
 - Programming & Automation
 - 
 
-### ✅ Certifications:  
+### Certifications:  
 * CompTIA A+
 * THM SAL1
 * TCM PWPA
