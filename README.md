@@ -4,7 +4,7 @@
 ---
 
 #### Welcome to my GitHub!  
-This is where I document my programming projects, **homelabs, security research, and IT projects** while developing hands-on skills across IT support and cybersecurity.
+This is where I document my programming projects, **homelabs, security research, and IT projects** while developing hands-on skills across IT and cybersecurity.
 
 
 ### Certifications:  
