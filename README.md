@@ -6,11 +6,6 @@
 #### Welcome to my GitHub!  
 This is where I document my programming projects, **homelabs, security research, and IT projects** while developing hands-on skills across IT support and cybersecurity.
 
-#### I’m currently expanding my expertise in:  
-- Cybersecurity (DFIR, Security Analys, Red teaming...)  
-- Windows/Linux Administration  
-- Programming & Automation
-- 
 
 ### Certifications:  
 * CompTIA A+
@@ -23,7 +18,7 @@ This is where I document my programming projects, **homelabs, security research,
 ---
 
 ### 🎯 Up Next:  
-* TBD
+* TBD (Likely CPTS or OSCP)
 
 
 ---
