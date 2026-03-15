@@ -71,7 +71,6 @@
 | PJPT — Practical Junior Penetration Tester | TCM Security | Jun 2025 |
 | PWPA — Practical Web Pentest Associate | TCM Security | Jun 2025 |
 | SAL1 — Security Analyst Level 1 | TryHackMe | Jul 2025 |
-| Google Cybersecurity Professional Certificate | Google | 2021 |
 
 ---
 
