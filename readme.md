@@ -79,24 +79,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x00-V&show_icons=true&theme=transparent&title_color=ff3333&icon_color=ff3333&text_color=ede8e8&border_color=cc1a1a&hide_border=false&count_private=true" height="165"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x00-V&layout=compact&theme=transparent&title_color=ff3333&text_color=ede8e8&border_color=cc1a1a&hide_border=false&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=0x00-V&theme=transparent&hide_border=false&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=ede8e8&dates=6b5555&border=cc1a1a&currStreakNum=ede8e8&sideNums=ede8e8" height="165"/>
-
-</div>
-
----
-
-## `// contribution graph`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/0x00-V/0x00-V/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 
