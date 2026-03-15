@@ -100,7 +100,7 @@
 <div align="center">
 
 ```
-[ UK · Open to work · Building in the dark ]
+[ UK · Open to work ]
 ```
 
 </div>
