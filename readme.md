@@ -9,8 +9,6 @@
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝         ╚═══╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=IT+Technician+%7C+Security+Analyst;Penetration+Tester+%7C+Script+Developer;CompTIA+A%2B+%7C+Security%2B+%7C+Network%2B+%7C+CySA%2B;PJPT+%7C+PWPA+%7C+AZ-900+%7C+SAL1;Building+tools+from+Wales%2C+UK+%F0%9F%93%8D)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -33,11 +31,8 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff3333)
-![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=ff3333)
 ![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=ff3333)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ff3333)
-![PowerShell](https://img.shields.io/badge/PowerShell-0a0a0a?style=for-the-badge&logo=powershell&logoColor=ff3333)
-![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=ff3333)
 
 **Security & Networking**
 
@@ -112,9 +107,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff3333)](https://www.linkedin.com/in/daniel-thomas-bb0462308/)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff3333)](https://github.com/0x00-V)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=ff3333)](mailto:business.danielthomas@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff3333)](https://0x00-v.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff3333)](https://0x00-v.github.io/portfolio)
 
 </div>
 
@@ -123,7 +117,7 @@
 <div align="center">
 
 ```
-[ Wales, UK · Open to work · Building in the dark ]
+[ UK · Open to work · Building in the dark ]
 ```
 
 </div>
